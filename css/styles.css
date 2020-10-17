@@ -1,5 +1,5 @@
 #landing-page{
-    background-image: url(../images/beverages.jpg);
+    background-image: url(../images/backgroundpizza.jpg);
     align-items: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -7,10 +7,10 @@
     height: 100%;
     width: 100%;
     text-align: center;
-    padding-top: 10.5%;
-    padding-bottom: 10.5%;
+    padding-top: 25%;
+    padding-bottom: 25%;
 
 }
 .controls-top{
-    display: flex;
+    display: inline-flex;
 }
