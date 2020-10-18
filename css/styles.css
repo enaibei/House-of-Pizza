@@ -11,13 +11,35 @@
     padding-bottom: 25%;
 
 } */
-.controls-top{
+.carousel-inner{
     display: flex;
 
 }
 
-/* body{
-    background-image: url(../images/backgroundpizza.jpg);
+ /* body{
+    background-image: url(../images/pizzab.jpg);
     background-repeat: no-repeat;
+    padding-top: 100%;
+    padding-bottom: 100%;
+ } */
     
+
+
+#contact-us{
+    padding-left: 170px;
+    background-color: black;
+    color: white;
+    padding-top: 10px;
+}
+/* #variety{
+    background-image: url(../images/pizzab.jpg);
+    background-repeat: no-repeat;
 } */
+
+.order-overlay{
+    background-color: rgba(235, 57, 57, 0.5);
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-right: 16px;
+    padding-left: 16px;
+  }
