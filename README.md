@@ -4,7 +4,7 @@ This is a website for a Pizza Shop - House of Pizza, their pizza menu and an opt
 ## Set-up Instructions
 Fork and Clone the project and open the code with your text editor and run it with a live server
 ## GitHub Pages live link
-https://enaibei.github.io/delani-studio/
+https://enaibei.github.io/House-of-Pizza/
 ## Technologies used
 * HTML 5
 * CSS 3
