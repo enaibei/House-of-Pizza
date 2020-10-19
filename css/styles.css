@@ -20,7 +20,13 @@
     padding-bottom: 100%;
  } */
     
+body{
+  background-image: url(../images/bg5.jpg);
+  
 
+  
+
+}
 
 #contact-us{
     padding-left: 100px;

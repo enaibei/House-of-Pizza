@@ -161,7 +161,7 @@ $(document).ready(function(){
         $("#totalbill").append("Your bill plus delivery fee is: "+deliceryamount);
       });
 
-      // when one clicks place order button
+      //order button
     $("button#final-order").click(function(event){
         event.preventDefault();
   
