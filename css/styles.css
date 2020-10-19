@@ -55,9 +55,13 @@
     color: black;
     padding-top: 2%;
     text-align: center;
-
-    
+    padding-bottom: 2%;
 }
+
+.controls-top h2{
+  text-align: center;
+}
+
 
 #social-media ul{   
     top: 70%;
