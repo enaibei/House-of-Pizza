@@ -176,7 +176,7 @@ $(document).ready(function(){
   
         if ($("input#name").val() && $("input#phone").val() && $("input#location").val()!=""){
     
-          $("#finallmessage").append(person+", We have recieved your order and it will be delivered to you at "+location+ ". Prepare sh. "+deliceryamount);
+          $("#finallmessage").append(person+", We have recieved your order, it will be delivered to you at "+location+ ". Kindly be ready with Ksh.  "+deliceryamount);
           $("#totalbill").hide();
           $("#finallmessage").slideDown(1200);
         }
